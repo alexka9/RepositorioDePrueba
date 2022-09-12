@@ -31,3 +31,10 @@ ekglbnjnjnrjivnjernbjnerjbn3nojetjokmmgkbmebimerkbmfkvmwjfgjwrkjgptrijekbkjwjkgj
 [Google](http://www.google.com "Titulo opcional") 
 
 ![paisaje](https://github.com/alexka9/RepositorioDePrueba/blob/main/paisaje.webp "Imagen de paisaje")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:------:|--------:|
+|Nombre | Apellido| Apellido 2|
+|Nombre2| Apellido 3| Apellido 4|
+|Col 3 | está alineada| derecha|
+|col 2 | está alineada | centro|
