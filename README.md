@@ -7,5 +7,5 @@
 Primer repositorio GitHub
 
 * Lista
-+Elemento 1
-+Elemento 2
++ Elemento 1
++ Elemento 2
